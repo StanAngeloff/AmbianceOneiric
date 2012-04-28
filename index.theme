@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Ambiance
-Comment=Ubuntu Ambiance theme
+Name=AmbianceOneiric
+Comment=Ubuntu Ambiance theme (Oneiric)
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Ambiance
-MetacityTheme=Ambiance
+GtkTheme=AmbianceOneiric
+MetacityTheme=AmbianceOneiric
 IconTheme=ubuntu-mono-dark
 CursorTheme=DMZ-White
 ButtonLayout=close,minimize,maximize:
