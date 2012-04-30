@@ -57,3 +57,10 @@ Any theme glitches should be reported against the master [Light Themes][master]
 project. Those related to wrong menu colouring should be reported in here.
 
   [master]: https://code.launchpad.net/~ubuntu-art-pkg/light-themes/trunk
+
+Related Links
+-------------
+
+* [Ambiance-Shiki][shiki]: Combination of 'AmbianceOneiric' and 'Shiki-Colors'
+
+  [shiki]: https://github.com/aceat64/Ambiance-Shiki
