@@ -10,7 +10,7 @@ Looking for a 14.04 update? The stock theme has changed a lot between 12.04 and 
 
 The stock theme in 14.04 comes pretty close, though, except for the loss of dark menus/submenus in certain apps.
 
-Thanks to tireless **James Shriner** and Launchpad user **luigimarco**, [a workaround is available](https://bugs.launchpad.net/ubuntu/+source/light-themes/+bug/932274/comments/9):
+A [workaround by Launchpad user **luigimarco**](https://bugs.launchpad.net/ubuntu/+source/light-themes/+bug/932274/comments/9) is available and was brought to my attention by affected user James Shriner:
 
 > - copy Ambiance theme in my home directory from /usr/share/themes to ~/.themes.
 > - open the file gtk2.0/gtkrc
